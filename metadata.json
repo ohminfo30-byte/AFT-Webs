@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Afar Free Thinkers",
+  "description": "A digital sanctuary for independent voices, bloggers, and free thinkers from the Afar region. Exploring culture, philosophy, and progress.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
